@@ -21,8 +21,8 @@ repository               : "wekiqs/wekiqs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./lm.png"
-  name             : "yongsong zhou"
+  avatar           : "lm.png"
+  name             : "yongsong zhou(周永松)"
   pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China ShenZhen"
