@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "ch-China"
-title                    : "Your Name / Site Title"
+title                    : "weki's home page"
 title_separator          : "-"
 name                     : &name "yongsong zhou"
 description              : &description "A student at Shenzhen University"
