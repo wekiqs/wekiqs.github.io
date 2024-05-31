@@ -12,7 +12,7 @@ title                    : "weki's home page"
 title_separator          : "-"
 name                     : &name "yongsong zhou"
 description              : &description "A student at Shenzhen University"
-url                      : "https://wekiqs.github.io/"
+url                      : https://wekiqs.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wekiqs/wekiqs.github.io"
 
