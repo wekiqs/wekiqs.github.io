@@ -36,7 +36,7 @@ Academic Papers:
 (empty)
 
 Personal Projects:
-RobustMIA
+- RobustMIA
 
 Social Activities:
 (empty)
